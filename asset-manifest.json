@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.641b91b4.css",
-    "main.js": "/static/js/main.aa737ec2.js",
+    "main.css": "/static/css/main.a0d99fe6.css",
+    "main.js": "/static/js/main.760f0d67.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/cultfit.png": "/static/media/cultfit.2ae3c84988d5767f00c8.png",
     "static/media/fathom.png": "/static/media/fathom.011ddbce9ccb03e40af3.png",
@@ -9,13 +9,14 @@
     "static/media/gym.png": "/static/media/gym.fc3ac6c4f6924f0ed598.png",
     "static/media/kickstarter.png": "/static/media/kickstarter.8bc9f1f32d4ecf99e976.png",
     "static/media/profile_pic.png": "/static/media/profile_pic.dfda0c7133785cf31956.png",
+    "static/media/Sudarshan-Resume-fw20_0365.pdf": "/static/media/Sudarshan-Resume-fw20_0365.8a1beb863fe5e2070016.pdf",
     "index.html": "/index.html",
-    "main.641b91b4.css.map": "/static/css/main.641b91b4.css.map",
-    "main.aa737ec2.js.map": "/static/js/main.aa737ec2.js.map",
+    "main.a0d99fe6.css.map": "/static/css/main.a0d99fe6.css.map",
+    "main.760f0d67.js.map": "/static/js/main.760f0d67.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.641b91b4.css",
-    "static/js/main.aa737ec2.js"
+    "static/css/main.a0d99fe6.css",
+    "static/js/main.760f0d67.js"
   ]
 }
