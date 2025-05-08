@@ -26,9 +26,7 @@ function App() {
       <GithubCalender></GithubCalender>
       <Stats></Stats>
       <Contact />
-      <Resume>
-
-      </Resume>
+      <Resume></Resume>
    
     </div>
   );
