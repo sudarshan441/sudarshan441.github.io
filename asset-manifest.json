@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a0d99fe6.css",
-    "main.js": "/static/js/main.760f0d67.js",
+    "main.js": "/static/js/main.f76ddbd6.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/cultfit.png": "/static/media/cultfit.2ae3c84988d5767f00c8.png",
     "static/media/fathom.png": "/static/media/fathom.011ddbce9ccb03e40af3.png",
@@ -12,11 +12,11 @@
     "static/media/Sudarshan-Resume-fw20_0365.pdf": "/static/media/Sudarshan-Resume-fw20_0365.8a1beb863fe5e2070016.pdf",
     "index.html": "/index.html",
     "main.a0d99fe6.css.map": "/static/css/main.a0d99fe6.css.map",
-    "main.760f0d67.js.map": "/static/js/main.760f0d67.js.map",
+    "main.f76ddbd6.js.map": "/static/js/main.f76ddbd6.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0d99fe6.css",
-    "static/js/main.760f0d67.js"
+    "static/js/main.f76ddbd6.js"
   ]
 }
